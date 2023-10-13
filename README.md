@@ -11,7 +11,7 @@ This repository contains the source files for the book "Ansible Automation, BigF
 To get a copy of this book, clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/NickKing/ansible-bigfix-windows.git
+git clone https://github.com/viralarchitect/automation-book.git
 ```
 
 ## License
@@ -35,11 +35,6 @@ If you need support, please email the author at nick.king@example.com or open an
 
 **Nick King**
 
-- [GitHub](https://github.com/NickKing)
-- [LinkedIn](https://www.linkedin.com/in/nick-king-b02a8a85/)
-
-```
----
-
-This README.md file is structured to provide a brief overview of the book, instructions on how to clone the repository, licensing information, and ways to contribute or seek support. It also includes a section for acknowledgments and author information to provide readers with a way to connect with you or acknowledge those who helped in the creation of this book.
-
+- [GitHub](https://github.com/viralarchitect)
+- [LinkedIn](https://www.linkedin.com/in/nicholas-king-ccw/)
+- [Website](https://viralarchitect.com)
